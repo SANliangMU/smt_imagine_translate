@@ -21,9 +21,11 @@ SMT: IMAGINE 的汉化翻译文本仓库。
 
 #### 资料相关
 
-[必应翻译](https://cn.bing.com/translator
+[必应翻译](https://cn.bing.com/translator)
 
 [词典/字典](https://tran.httpcn.com/)
+
+[百度翻译](https://fanyi.baidu.com/)
 
 [SMT:IMAGINE 日文攻略 WIKI](https://megatenonline.wiki.fc2.com/)
 
@@ -34,3 +36,4 @@ SMT: IMAGINE 的汉化翻译文本仓库。
 [SMT:IMAGINE 英文攻略 WIKI](http://megaten.sesshou.com/wiki/index.php/Main_Page)
 
 [卢恩文字日文网站](https://wirotte.info/category/rune/)
+
