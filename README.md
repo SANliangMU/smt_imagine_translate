@@ -21,70 +21,70 @@ SMT: IMAGINE 的汉化翻译文本仓库。
 #### 翻译进度
 
 * [ ] Client (1/8)
-  * [x] CIconData_ItemClass.csv (38/38)
-  * [ ] CMapData.csv (00/73)
-  * [ ] CMessageData_basicCommandHelp.csv (000/116)
-  * [ ] CMessageData_IFCommandHelp.csv (00/36)
-  * [ ] CMessageData_SysHelp.csv (000/112)
-  * [ ] CMessageData_yorosiku.csv (00/45)
-  * [ ] CSkillData.csv (0000/8556)
-  * [ ] UIInfoData.csv (000/215)
+  * [x] CIconData_ItemClass.csv                 (38/38)
+  * [ ] CMapData.csv                            (00/73)
+  * [ ] CMessageData_basicCommandHelp.csv       (000/116)
+  * [ ] CMessageData_IFCommandHelp.csv          (00/36)
+  * [ ] CMessageData_SysHelp.csv                (000/112)
+  * [ ] CMessageData_yorosiku.csv               (00/45)
+  * [ ] CSkillData.csv                          (0000/8556)
+  * [ ] UIInfoData.csv                          (000/215)
 
-* [ ] Shield (00/54)
-  * [ ] CDevilBookBonusData.csv
-  * [ ] CDevilEquipmentExclusiveData.csv
-  * [ ] CEventMessageData.csv
-  * [ ] CEventMessageData2.csv
-  * [ ] CGuardianAssistData.csv
-  * [ ] CHelpData.csv
-  * [ ] CHouraiData.csv
-  * [ ] CHouraiMessageData.csv
-  * [ ] CIconData_COMPShopCategory.csv
-  * [ ] CItemData.csv
-  * [ ] CKeyItemData.csv
-  * [ ] CMessageData.csv
-  * [ ] CMessageData_Bazaar.csv
-  * [ ] CMessageData_Charastic.csv
-  * [ ] CMessageData_DevilBook.csv
-  * [ ] CMessageData_DevilPresent.csv
-  * [ ] CMessageData_Expert.csv
-  * [ ] CMessageData_klan-category.csv
-  * [ ] CMessageData_klan-character.csv
-  * [ ] CMessageData_klan-playstyle.csv
-  * [ ] CMessageData_klan-series.csv
-  * [ ] CMessageData_NakamaQuest.csv
-  * [ ] CMessageData_omedeto.csv
-  * [ ] CMessageData_party-free.csv
-  * [ ] CMessageData_party-playstyle.csv
-  * [ ] CMessageData_party-purpose.csv
-  * [ ] CMessageData_reunion.csv
-  * [ ] CMessageData_Shop.csv
-  * [ ] CMessageData_SysHelp.csv (000/112) (与 Client 下文件一致)
-  * [ ] CMessageData_System.csv
-  * [ ] CMessageData_yorosiku.csv (00/45) (与 Client 下文件一致)
-  * [ ] CModifiedEffectData.csv
-  * [ ] CQuestData.csv
-  * [ ] CStatusData.csv
-  * [ ] CTimeAttackData.csv
-  * [ ] CTitleData.csv
-  * [ ] CValuable.csv
-  * [ ] DevilData.csv
-  * [ ] DevilLVUpRateData.csv
-  * [ ] ExchangeData.csv
-  * [ ] GvGTrophyData.csv
-  * [ ] hNPCData.csv
-  * [ ] MissionData.csv
-  * [ ] MitamaReunionSetBonusData.csv
-  * [ ] MitamaUnionBonusData.csv
-  * [ ] ModificationExtEffectData.csv
-  * [ ] NPCBarterTextData.csv
-  * [ ] oNPCData.csv
-  * [ ] QuestBonusData.csv
-  * [ ] QuestData.csv
-  * [ ] TimeLimitData.csv
-  * [ ] UraFieldTowerData.csv
-  * [ ] WarpPointData.csv
-  * [ ] ZoneData.csv
+* [ ] Shield (01/54)
+  * [ ] CDevilBookBonusData.csv                 (02/44)
+  * [ ] CDevilEquipmentExclusiveData.csv        (00/91)
+  * [ ] CEventMessageData.csv                   (00000/48682)
+  * [ ] CEventMessageData2.csv                  (00000/29064)
+  * [ ] CGuardianAssistData.csv                 (000/432)
+  * [ ] CHelpData.csv                           (000/325)
+  * [ ] CHouraiData.csv                         (00/12)
+  * [ ] CHouraiMessageData.csv                  (00000/11588)
+  * [ ] CIconData_COMPShopCategory.csv          (00/10)
+  * [ ] CItemData.csv                           (00000/28541)
+  * [ ] CKeyItemData.csv                        (000/286)
+  * [ ] CMessageData.csv                        (0000/1787)
+  * [ ] CMessageData_Bazaar.csv                 (00/89)
+  * [ ] CMessageData_Charastic.csv              (00000/17100)
+  * [ ] CMessageData_DevilBook.csv              (000/318)
+  * [ ] CMessageData_DevilPresent.csv           (000/170)
+  * [ ] CMessageData_Expert.csv                 (00/59)
+  * [ ] CMessageData_klan-category.csv          (00/40)
+  * [ ] CMessageData_klan-character.csv         (000/697)
+  * [ ] CMessageData_klan-playstyle.csv         (000/12)
+  * [ ] CMessageData_klan-series.csv            (00/17)
+  * [ ] CMessageData_NakamaQuest.csv            (000/146)
+  * [ ] CMessageData_omedeto.csv                (00/33)
+  * [ ] CMessageData_party-free.csv             (00/23)
+  * [ ] CMessageData_party-playstyle.csv        (00/68)
+  * [ ] CMessageData_party-purpose.csv          (00/26)
+  * [ ] CMessageData_reunion.csv                (000/109)
+  * [ ] CMessageData_Shop.csv                   (000/904)
+  * [ ] CMessageData_SysHelp.csv                (000/112) (与 Client 下文件一致)
+  * [ ] CMessageData_System.csv                 (000/691)
+  * [ ] CMessageData_yorosiku.csv               (00/45) (与 Client 下文件一致)
+  * [ ] CModifiedEffectData.csv                 (000/776)
+  * [ ] CQuestData.csv                          (0000/2077)
+  * [ ] CStatusData.csv                         (0000/2150)
+  * [ ] CTimeAttackData.csv                     (00/36)
+  * [ ] CTitleData.csv                          (000/556)
+  * [x] CValuable.csv                           (3/3)
+  * [ ] DevilData.csv                           (0000/1407)
+  * [ ] DevilLVUpRateData.csv                   (000/245)
+  * [ ] ExchangeData.csv                        (0000/3993)
+  * [ ] GvGTrophyData.csv                       (00/43)
+  * [ ] hNPCData.csv                            (000/561)
+  * [ ] MissionData.csv                         (00/12)
+  * [ ] MitamaReunionSetBonusData.csv           (00/95)
+  * [ ] MitamaUnionBonusData.csv                (00/16)
+  * [ ] ModificationExtEffectData.csv           (000/338)
+  * [ ] NPCBarterTextData.csv                   (000/407)
+  * [ ] oNPCData.csv                            (000/487)
+  * [ ] QuestBonusData.csv                      (00/19)
+  * [ ] QuestData.csv                           (00/15)
+  * [ ] TimeLimitData.csv                       (00/37)
+  * [ ] UraFieldTowerData.csv                   (0/9)
+  * [ ] WarpPointData.csv                       (00/93)
+  * [ ] ZoneData.csv                            (000/437)
 
 
 #### 资料相关
