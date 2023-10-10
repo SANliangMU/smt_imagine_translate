@@ -30,7 +30,8 @@ SMT: IMAGINE 的汉化翻译文本仓库。
   * [ ] CSkillData.csv                          (0000/8556)
   * [ ] UIInfoData.csv                          (000/215)
 
-* [ ] Shield (01/54)
+* [ ] Shield (01/55)
+  * [ ] CBattleTalk.csv                         (0000/1898)
   * [ ] CDevilBookBonusData.csv                 (02/44)
   * [ ] CDevilEquipmentExclusiveData.csv        (00/91)
   * [ ] CEventMessageData.csv                   (00000/48682)
