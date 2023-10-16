@@ -20,11 +20,11 @@ SMT: IMAGINE 的汉化翻译文本仓库。
 
 #### 翻译进度
 
-* [ ] Client (1/8)
+* [ ] Client (2/8)
   * [x] CIconData_ItemClass.csv                 (38/38)
   * [ ] CMapData.csv                            (00/73)
   * [ ] CMessageData_basicCommandHelp.csv       (000/116)
-  * [ ] CMessageData_IFCommandHelp.csv          (00/36)
+  * [x] CMessageData_IFCommandHelp.csv          (35/35)
   * [ ] CMessageData_SysHelp.csv                (000/112)
   * [ ] CMessageData_yorosiku.csv               (00/45)
   * [ ] CSkillData.csv                          (0000/8556)
@@ -96,6 +96,8 @@ SMT: IMAGINE 的汉化翻译文本仓库。
 
 [不明解大词典](http://fumeikai.com/)
 
+[日汉词典|日语词典 - 单词乎](https://www.dancihu.com/rihan/)
+
 [百度翻译](https://fanyi.baidu.com/)
 
 [SMT:IMAGINE 日文攻略 WIKI](https://megatenonline.wiki.fc2.com/)
@@ -106,5 +108,10 @@ SMT: IMAGINE 的汉化翻译文本仓库。
 
 [SMT:IMAGINE 英文攻略 WIKI](http://megaten.sesshou.com/wiki/index.php/Main_Page)
 
-[卢恩文字日文网站](https://wirotte.info/category/rune/)
+[真女神转生 3 日文攻略 WIKI](https://altema.jp/megaten3/)
 
+[真女神转生 5 恶魔检索 日文攻略 WIKI](https://game8.jp/megaten5/411455)
+
+[女神异闻录 5 皇家版 日文攻略 WIKI](https://wikiwiki.jp/persona5r/)
+
+[卢恩文字日文网站](https://wirotte.info/category/rune/)
