@@ -20,17 +20,17 @@ SMT: IMAGINE 的汉化翻译文本仓库。
 
 #### 翻译进度
 
-* [ ] Client (3/8)
+* [ ] Client (4/8)
   * [x] CIconData_ItemClass.csv                 (38/38)
-  * [ ] CMapData.csv                            (00/73)
+  * [x] CMapData.csv                            (71/73)
   * [x] CMessageData_basicCommandHelp.csv       (116/116)
   * [x] CMessageData_IFCommandHelp.csv          (35/35)
   * [ ] CMessageData_SysHelp.csv                (000/112)
-  * [ ] CMessageData_yorosiku.csv               (00/45)
+  * [ ] CMessageData_yorosiku.csv               (14/45)
   * [ ] CSkillData.csv                          (0000/8556)
   * [ ] UIInfoData.csv                          (000/215)
 
-* [ ] Shield (11/55)
+* [ ] Shield (12/55)
   * [ ] CBattleTalk.csv                         (0000/1898)
   * [x] CDevilBookBonusData.csv                 (2/2)
   * [x] CDevilEquipmentExclusiveData.csv        (52/52)
@@ -84,7 +84,7 @@ SMT: IMAGINE 的汉化翻译文本仓库。
   * [ ] QuestData.csv                           (00/15)
   * [ ] TimeLimitData.csv                       (00/12)
   * [ ] UraFieldTowerData.csv                   (0/9)
-  * [ ] WarpPointData.csv                       (00/78)
+  * [x] WarpPointData.csv                       (00/78)
   * [ ] ZoneData.csv                            (000/275)
 
 
@@ -97,6 +97,8 @@ SMT: IMAGINE 的汉化翻译文本仓库。
 [不明解大词典](http://fumeikai.com/)
 
 [日汉词典|日语词典 - 单词乎](https://www.dancihu.com/rihan/)
+
+[查查词典](http://www.ichacha.net/jp/)
 
 [百度翻译](https://fanyi.baidu.com/)
 
