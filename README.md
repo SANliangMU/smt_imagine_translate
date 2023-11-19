@@ -30,7 +30,7 @@ SMT: IMAGINE 的汉化翻译文本仓库。
   * [ ] CSkillData.csv                          (0000/8556)
   * [ ] UIInfoData.csv                          (000/215)
 
-* [ ] Shield (12/55)
+* [ ] Shield (13/55)
   * [ ] CBattleTalk.csv                         (0000/1898)
   * [x] CDevilBookBonusData.csv                 (2/2)
   * [x] CDevilEquipmentExclusiveData.csv        (52/52)
@@ -83,9 +83,9 @@ SMT: IMAGINE 的汉化翻译文本仓库。
   * [x] QuestBonusData.csv                      (1/1)
   * [ ] QuestData.csv                           (00/15)
   * [ ] TimeLimitData.csv                       (00/12)
-  * [ ] UraFieldTowerData.csv                   (0/9)
-  * [x] WarpPointData.csv                       (00/78)
-  * [ ] ZoneData.csv                            (000/275)
+  * [x] UraFieldTowerData.csv                   (9/9)
+  * [x] WarpPointData.csv                       (78/78)
+  * [x] ZoneData.csv                            (000/275)
 
 
 #### 资料相关
