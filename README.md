@@ -69,7 +69,7 @@ SMT: IMAGINE 的汉化翻译文本仓库。
   * [ ] CTimeAttackData.csv                     (00/36)
   * [ ] CTitleData.csv                          (000/556)
   * [x] CValuable.csv                           (3/3)
-  * [ ] DevilData.csv                           (0000/1407)
+  * [x] DevilData.csv                           (1407/1407)
   * [ ] DevilLVUpRateData.csv                   (000/245)
   * [ ] ExchangeData.csv                        (0000/3993)
   * [ ] GvGTrophyData.csv                       (00/43)
@@ -110,10 +110,18 @@ SMT: IMAGINE 的汉化翻译文本仓库。
 
 [SMT:IMAGINE 英文攻略 WIKI](http://megaten.sesshou.com/wiki/index.php/Main_Page)
 
+[真女神转生 3 仲魔合成](https://tieba.baidu.com/p/6781539674)
+
 [真女神转生 3 日文攻略 WIKI](https://altema.jp/megaten3/)
 
 [真女神转生 5 恶魔检索 日文攻略 WIKI](https://game8.jp/megaten5/411455)
 
 [女神异闻录 5 皇家版 日文攻略 WIKI](https://wikiwiki.jp/persona5r/)
 
-[卢恩文字日文网站](https://wirotte.info/category/rune/)
+[卢恩文字 日文网站](https://wirotte.info/category/rune/)
+
+[神魔精妖名辞典 日文网站](https://shimma.info/)
+
+[真女神转生 DX2 中文图鉴](https://d2megaten.fandom.com/zh/wiki/%E6%83%A1%E9%AD%94%E4%B8%80%E8%A6%BD)
+
+[真女神转生 英文 WIKI](https://megamitensei.fandom.com/wiki/Megami_Tensei_Wiki)
